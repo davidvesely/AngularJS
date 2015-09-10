@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthBackend", "AuthBackend\AuthBackend.csproj", "{1C4A4289-FAA7-4C52-A610-DFF3544B1D0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthBackend.Tests", "AuthBackend.Tests\AuthBackend.Tests.csproj", "{886F4575-5EB8-4111-902C-91C644B260C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C4A4289-FAA7-4C52-A610-DFF3544B1D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4A4289-FAA7-4C52-A610-DFF3544B1D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4A4289-FAA7-4C52-A610-DFF3544B1D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4A4289-FAA7-4C52-A610-DFF3544B1D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886F4575-5EB8-4111-902C-91C644B260C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886F4575-5EB8-4111-902C-91C644B260C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886F4575-5EB8-4111-902C-91C644B260C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886F4575-5EB8-4111-902C-91C644B260C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
